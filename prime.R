@@ -17,4 +17,4 @@ extract_primes <- function(num) {
 # Example usage:
 num <- 123344977
 extract_primes(num)
-
+plot(extract_primes(num))
